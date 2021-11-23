@@ -1,6 +1,6 @@
-# S3 ANALYTICS TOOL
+# S3 STATS TOOL
 
-A ferramenta S3 Analytics Tool foi criada com o próposito de coletar informações de buckets S3 da AWS de uma determinada conta AWS. Foi desenvolvida utilizando Go 1.16 em conjunto com o SDK AWS GO V2. O processo de build foi realizado para 3 sistemas operacionais, sendo Windows, Linux e MacOS.
+A ferramenta S3 Stats Tool foi criada com o próposito de coletar informações de buckets S3 da AWS de uma determinada conta AWS. Foi desenvolvida utilizando Go 1.16 em conjunto com o SDK AWS GO V2. O processo de build foi realizado para 3 sistemas operacionais, sendo Windows, Linux e MacOS.
 
 ## Como Utilizar
 
