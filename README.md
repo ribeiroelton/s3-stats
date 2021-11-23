@@ -13,7 +13,7 @@ Os testes foram realizados em Sistema Operacional Linux e Windows
 ### No Linux
 
 ```bash
-wget https://github.com/elribeiro/s3-stats-tool/releases/download/v0.0.2/s3analytics-linux-amd64
+wget https://github.com/elribeiro/s3-stats-tool/releases/download/v0.0.3/s3analytics-linux-amd64
 
 chmod +x s3analytics-linux-amd64
 ```
