@@ -3,7 +3,7 @@ package params_test
 import (
 	"testing"
 
-	params "com.github.elribeiro.s3-analytics/internal/params"
+	params "github.com/elribeiro/s3-stats-tool/internal/params"
 )
 
 func TestParamsInput(t *testing.T) {

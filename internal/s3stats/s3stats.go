@@ -6,7 +6,7 @@ import (
 
 	"time"
 
-	"com.github.elribeiro.s3-analytics/package/s3client"
+	"github.com/elribeiro/s3-stats-tool/package/s3client"
 	log "github.com/sirupsen/logrus"
 )
 

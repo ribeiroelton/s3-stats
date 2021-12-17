@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"com.github.elribeiro.s3-analytics/internal/s3stats"
+	"github.com/elribeiro/s3-stats-tool/internal/s3stats"
 	log "github.com/sirupsen/logrus"
 )
 

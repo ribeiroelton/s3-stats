@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"com.github.elribeiro.s3-analytics/package/s3client"
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 	"github.com/aws/aws-sdk-go-v2/service/s3/types"
+	"github.com/elribeiro/s3-stats-tool/package/s3client"
 )
 
 type S3AwsClientMock struct{}

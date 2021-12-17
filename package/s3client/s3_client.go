@@ -6,11 +6,11 @@ import (
 	"strings"
 	"time"
 
-	"com.github.elribeiro.s3-analytics/internal/comparedate"
 	"github.com/aws/aws-sdk-go-v2/aws"
 	awshttp "github.com/aws/aws-sdk-go-v2/aws/transport/http"
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
+	"github.com/elribeiro/s3-stats-tool/internal/comparedate"
 	log "github.com/sirupsen/logrus"
 )
 

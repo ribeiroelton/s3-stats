@@ -1,9 +1,9 @@
 package main
 
 import (
-	params "com.github.elribeiro.s3-analytics/internal/params"
-	"com.github.elribeiro.s3-analytics/internal/report"
-	"com.github.elribeiro.s3-analytics/internal/s3stats"
+	params "github.com/elribeiro/s3-stats-tool/internal/params"
+	"github.com/elribeiro/s3-stats-tool/internal/report"
+	"github.com/elribeiro/s3-stats-tool/internal/s3stats"
 	log "github.com/sirupsen/logrus"
 )
 

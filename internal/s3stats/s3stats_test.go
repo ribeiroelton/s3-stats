@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"com.github.elribeiro.s3-analytics/internal/s3stats"
-	"com.github.elribeiro.s3-analytics/package/s3client"
+	"github.com/elribeiro/s3-stats-tool/internal/s3stats"
+	"github.com/elribeiro/s3-stats-tool/package/s3client"
 )
 
 type S3ClientApiMock struct{}

@@ -1,4 +1,4 @@
-module com.github.elribeiro.s3-analytics
+module github.com/elribeiro/s3-stats-tool
 
 go 1.16
 

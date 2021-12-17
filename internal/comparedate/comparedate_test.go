@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"com.github.elribeiro.s3-analytics/internal/comparedate"
+	"github.com/elribeiro/s3-stats-tool/internal/comparedate"
 )
 
 func TestGetMostRecentDate(t *testing.T) {
